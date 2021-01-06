@@ -1,3 +1,4 @@
 # MinimalWeather
+SwiftUI App
 MinimalWeatherApp
 
