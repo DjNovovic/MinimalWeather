@@ -10,7 +10,7 @@ import CoreLocation
 
 public final class WeatherService: NSObject {
     private let locationManager = CLLocationManager()
-    private let API_KEY = "9171baf8e2d4a6723b259eb509c4bacc"
+    private let API_KEY = "123456789"  // ADD YOUR API KEY HERE - Form openweather!!!
     private var completionHandler: ((Weather) -> Void)?
     
     public override init() {
